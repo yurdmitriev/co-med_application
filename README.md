@@ -9,7 +9,7 @@
 
 ### Репозиторії
 * https://github.com/duop-team/co-med_frontend.git — frontend (React JS)
-* https://github.com/duop-team/co-med_backend.git — backend (Java Spring)
+* https://github.com/duop-team/co-med_backend.git — backend (PHP Laravel)
 
 ### Посилання
 * https://co-med.web.app/ — клієнтська частина, веб-застосунок
